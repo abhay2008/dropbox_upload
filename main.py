@@ -12,7 +12,7 @@ class TransferData:
     
 
 def main():
-  access_token = 'C0TQsTBkOnMAAAAAAAAAATc0fw5O_GytKpGsgY8WAhEP-T_u4Qa_xDHNIVWEd_A6'
+  access_token = 'ha! were you looking for the token'
   transferData = TransferData(access_token)
   
   file_from = input("Enter the file path to transfer:-  ")
